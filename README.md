@@ -34,6 +34,7 @@ I am Benjamin Bell, a seasoned software developer with 4 years of experience in 
 - HTML
 - CSS
 - JavaScript
+- Object Oriented Programming (OOP)
 
 ## Contact Me
 - **Email**: [Benjamin Gmail](dntytrewq@gmail.com)
