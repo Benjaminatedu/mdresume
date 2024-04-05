@@ -1,60 +1,41 @@
-# md-resume
+# Benjamin Bell's Software Development Portfolio
 
-A resume maintained in plain text and rendered to HTML and PDF using CSS.
+## About Me
+I am Benjamin Bell, a seasoned software developer with 4 years of experience in the field. My expertise lies in Python, C#, SQL, TypeScript, React Native, HTML, CSS, and JavaScript. I have a passion for crafting efficient and user-friendly software solutions.
 
-For more details, see the [markdown-csv project page](http://elipapa.github.io/markdown-cv), or the blog post on [why I switched to markdown for my CV](http://elipapa.github.io/blog/why-i-switched-to-markdown-for-my-cv.html).
+## Projects
 
-***
+### Project 1: [Taskerly]
+- **Description**: A task management object oriented IOS app developed in ReactNative using ExpoGo. This software is meant to allow users the ability to create parent categories and add recurring tasks to those categories that will then alert the user when that task is overdue.
+- **Technologies Used**: ReactNative, TypeScript, JavaScript, Expo, ExpoGo.
+- **Link**: [Taskerly Github](https://github.com/Benjaminatedu/Taskerly)
 
-## Customization
+### Project 2: [Authenticated Library Database]
+- **Description**: This C++ software facilitates user authentication through registration and login functionalities. Upon authentication, users are prompted with options to interact with a library system, including adding new books, purchasing books, searching the library's inventory, editing book details, and exiting the program. Its purpose is to demonstrate fundamental skills in C++ software development.
+- **Technologies Used**: C++, VS Code
+- **Link**: [Authenticated Library Database Github](https://github.com/Benjaminatedu/Authenticated_Library_Database)
 
-Simply [fork the mdresume repo](https://github.com/byuids-resumes/mdresume)
+### Project 3: [Connect 4]
+- **Description**: This Kotlin project implements a Connect 4 game, providing players with a graphical interface to drop tokens and compete. Its purpose is to showcase Kotlin's features while serving as a learning tool for the developer, reinforcing object-oriented programming, GUI development using Swing, and game logic implementation.
+- **Technologies Used**: Kotlin, IntelliJ IDEA, Swing.
+- **Link**: [Connect 4 Github](https://github.com/Benjaminatedu/Connect-4-Kotlin)
 
-![](https://help.github.com/assets/images/help/repository/fork_button.jpg)
+### Project 4: [EduGame]
+- **Description**: The EduGame was developed as a study aid meant to use different timers to create the optimal study sessions while also allowing for a fun break game in the form of a procedurally generated maze solving minigame.
+- **Technologies Used**: Godot, GD Script, ChatGPT, VS Code.
+- **Link**: [EduGame Github](https://github.com/Benjaminatedu/HackathonEduGame)
 
-and edit the `index.md` file in the `docs` folder [directly in Github](https://help.github.com/articles/editing-files-in-your-repository/)
+## Skills
+- Python
+- C#
+- SQL
+- TypeScript
+- React Native
+- HTML
+- CSS
+- JavaScript
 
-![](https://help.github.com/assets/images/help/repository/edit-file-edit-button.png)
-
-adding your skills, jobs and education.
-
-![](https://help.github.com/assets/images/help/repository/edit-readme-light.png)
-
-## Distribution
-
-To transform your plain text resume into a beautiful and shareable HTML page, you have two options:
-
-### I. Use Github Pages to publish it online
-
-1. Edit or move your resume to the `index.md` file in the `docs` folder.
-2. Go to settings > GitHub pages to make the changes shown.
-
-![](docs_setup.png)
-
-3. Head to *yourusername*.github.io/mdresume to see your resume live.
-
-Any change you want to make to your CV from then on would have to be done in the `docs` folder and will be immediately rendered by Github Pages.
-
-## Styling
-
-The included CSS will render your CV in two styles:
-s
-1. `kjhealy` the original default, inspired by [kjhealy's vita
-template](https://github.com/kjhealy/kjh-vita).
-2. `davewhipp` is a tweaked version of `kjhealy`, with bigger fonts and dates
-  right aligned.
-
-To change the default style, simply change the variable in the
-`_config.yml` file.
-
-Any other styling is possible. More CSS style contributions and forks are welcome!
-
-### Author
-
-Eliseo Papa ([Twitter](http://twitter.com/elipapa)/[Github](http://github.com/elipapa)/[Website](https://elipapa.github.io)).
-
-![Eliseo Papa](https://s.gravatar.com/avatar/eae1f0c01afda2bed9ce9cb88f6873f6?s=100)
-
-### License
-
-[MIT License](https://github.com/elipapa/markdown-cv/blob/master/LICENSE)
+## Contact Me
+- **Email**: [Benjamin Gmail](dntytrewq@gmail.com)
+- **LinkedIn**: [Benjamin Bell](https://www.linkedin.com/in/benjamin-bell-11231b230/)
+- **GitHub**: [Benjaminatedu](https://github.com/Benjaminatedu)
